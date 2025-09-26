@@ -14,6 +14,8 @@ namespace jenkinspipeline1
         }
         static void Main(string[] args)
         {
+            Program p = new Program();
+            p.Add();
         }
     }
 }
