@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jenkinspipeline1", "jenkinspipeline1\jenkinspipeline1.csproj", "{2D88C6A8-952D-4CA2-8541-DDC8B3BF4227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D88C6A8-952D-4CA2-8541-DDC8B3BF4227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D88C6A8-952D-4CA2-8541-DDC8B3BF4227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D88C6A8-952D-4CA2-8541-DDC8B3BF4227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D88C6A8-952D-4CA2-8541-DDC8B3BF4227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F538FA57-8B11-4AF1-B2E3-B725933D1C8F}
+	EndGlobalSection
+EndGlobal
